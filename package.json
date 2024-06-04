@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js",
     "start1": "node --watch servidor.js",
+    "start2": "node --watch servidor2.mjs",
+    "start3": "node --watch servidor3.js",
+    "start4": "node --watch servidor4.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
