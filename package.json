@@ -9,6 +9,7 @@
     "start2": "node --watch servidor2.mjs",
     "start3": "node --watch servidor3.js",
     "start4": "node --watch servidor4.mjs",
+    "express": "node --watch express/servidor1.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
